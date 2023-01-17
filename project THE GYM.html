@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="shortcut icon" type="image/x-icon" href="https://media.istockphoto.com/id/1331186720/vector/dumbbell.jpg?s=612x612&w=is&k=20&c=3hjtKZoZnjGChKK_1CWpt8yHYu_ZFePovu9LExyp_jI=">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Anvesh Fitness</title>
+</head>
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&family=Unbounded&display=swap"
+	rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<style>
+	/*CSS Reset*/
+	body {
+		font-family: 'Ubuntu', sans-serif;
+		font-family: 'Unbounded', cursive;
+		color: white;
+		background-image: url(pg.jpg);
+		background-repeat: no-repeat;
+		height: 100%;
+	 } 
+	.left {
+		position: absolute;
+		top: 25px;
+		left: 30px;
+		display: inline-block;
+		/* border:2px solid red ; */
+
+	}
+	.left img {
+		width: 190px;
+		cursor: pointer;
+	}
+	.mid {
+
+		display: block;
+		width: 50%;
+		margin: 20px auto;
+		/* border:2px solid green ; */
+	}
+
+	.navbar {
+		display: inline-block;
+	}
+
+	.navbar li {
+		display: inline-block;
+		font-size: 18px;
+	}
+
+	.navbar li a {
+		color: white;
+		text-decoration: none;
+		padding: 34px 15px;
+	}
+
+	.navbar li a:hover,
+	.navbar li a.Active {
+		text-decoration: underline;
+		color: gray;
+	}
+
+	.right {
+		position: absolute;
+		top: 32px;
+		right: 20px;
+		display: inline-block;
+		/* border:2px solid yellow ; */
+	}
+
+	.btn {
+		background-color: black;
+		color: white;
+		font-family: 'Ubuntu', sans-serif;
+		font-family: 'Unbounded', cursive;
+		margin: 0px 2px;
+		padding: 4px 14px;
+		border: 2px solid gray;
+		border-radius: 8px;
+		font-size: 14px;
+		cursor: pointer;
+	}
+
+	.btn:hover {
+		background-color: gray;
+	}
+
+	.container {
+		/* border: 2px solid white; */
+		margin: 116px 31px;
+		padding: 116px;
+		width: 29%;
+		border-radius: 28px;
+	}
+
+	.container h2 {
+		position: absolute;
+		top: 224px;
+		margin: 24px 25px;
+	}
+
+	.form-group {
+		margin: -17px 31px;
+		padding: 10px;
+	}
+
+	.form-group input {
+		font-family: 'Ubuntu', sans-serif;
+		font-family: 'Unbounded', cursive;
+		text-align: center;
+		display: block;
+		width: 393px;
+		padding: 4px;
+		margin: 7px auto;
+		font-size: 25;
+		border-radius: 8px;
+	}
+	.form-group select{
+		font-family: 'Ubuntu', sans-serif;
+		font-family: 'Unbounded', cursive;
+		text-align: center;
+		display: block;
+		width: 403px;
+		padding: 4px;
+		margin: 7px auto;
+		font-size: 25;
+		border-radius: 7px;
+	}
+	.form-group select:hover{
+		background-color: gray;
+	}
+	.bottom {
+		border: 2px solid  white;
+		background-color: black;
+		color: white;
+		font-family: 'Ubuntu', sans-serif;
+		font-family: 'Unbounded', cursive;
+		text-align: center;
+		display: block;
+		width: 403px;
+		padding: 4px;
+		margin: 7px 43px;
+		font-size: 25;
+		border-radius: 7px;
+	}
+
+	.bottom:hover {
+		background-color: gray;
+
+	}
+</style>
+
+<body>
+	<header class="header">
+		<!-- left box for logo -->
+		<div class="left">
+			<img src="http://www.thegym.in/img/thegym-logo.jpg">
+		</div>
+		<!-- mid for navigation -->
+		<div class="mid">
+			<ul class="navbar">
+				<li><a href="#" class="Active">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Fitness Calculator</a></li>
+				<li><a href="#">Contact Us</a></li>
+			</ul>
+		</div>
+		<!-- right for bottom -->
+		<div class="right">
+			<button class="btn">Call Us Now </button>
+			<button class="btn">Email Us </button>
+		</div>
+	</header>
+	<div class="container">
+		<h2>Join the best gym of Delhi now</h2>
+		<form>
+			<div class="form-group">
+				<input type="text" name="" placeholder="Enter your Name">
+				<select name="Age_selected">
+					<option>Enter your Age</option>
+	  	<option >18-22</option>
+	  	<option>23-27</option>
+	  	<option>28-32</option>
+		  <option>33-37</option>
+		  <option>38-42</option>
+		  <option>43-47</option>
+		  <option>47-60</option>
+				</select>	
+		  <select id="Gender_selected">
+			<option>Enter your Gender</option>
+			<option >Male</option>
+	  	<option>Female</option>
+	  	<option>Other</option>
+			</select>
+				<input type="text" name="" placeholder="Enter your Locality">
+
+			</div>
+			<button class="bottom">Submit</button>
+		</form>
+	</div>
+
+</body>
+
+</html>

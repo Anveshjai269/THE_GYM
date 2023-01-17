@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"bc",
+				"background"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"gre",
+				"grey"
+			],
+			[
+				"gree",
+				"greenyellow"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"b",
+				"b"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/anves/OneDrive/Desktop/Sublime Text Build 3211 x64 Setup.exe",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/visibility.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/B.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/A.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/A",
+		"/C/Users/anves/OneDrive/Desktop/project/style.css",
+		"/C/Users/anves/OneDrive/Desktop/project/index.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/coding ninja.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/loginform.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/CSS 13-21.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/CSS Project 25.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/CSS-25.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/CSS 24-.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/CSS 22-23.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/CSS-1.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/CSS -2",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/youtube.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/audiovideo.html",
+		"/C/Users/anves/Music/Tum Mujhko Kab Tak Rokoge - Amitabh Bachchan.mp3",
+		"/C/Users/anves/Downloads/Sublime Text Build 3211 x64 Setup.exe",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/semantic ninja.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/index.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/internal link.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/Sonnet.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/index2.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/Anvesh coding ninja.html",
+		"/C/Users/anves/OneDrive/Desktop/Anvesh/index 2",
+		"/C/Users/anves/OneDrive/Desktop/index.html",
+		"/C/Users/anves/Downloads/Hello world!"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
